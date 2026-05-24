@@ -48,7 +48,7 @@ local GOOD_BRAINROTS = {
     ["Cloverat Clapat"] = true, ["Chillin Chili"] = true, ["Fragola La La La"] = true, ["Cash or Card"] = true,
     ["Hydra Bunny"] = true, ["Bunny and Eggy"] = true, ["Arcadragon"] = true, ["Pancake and Syrup"] = true,
     ["Los Chillis"] = true, ["Kalika Bros"] = true, ["Digi Narwhal"] = true, ["Gym Bros"] = true,
-    ["Globa Steppa"] = true, ["Dug dug dug"] = true, ["Jolly Jolly Sahur"] = true, ["Gold Gold Gold"] = true,
+    ["Globa Steppa"] = true, ["Dug dug dug"] = true, ["Jolly Jolly Sahur"] = true, ["La Secret Combinasion"] = true,
     ["Fishino Clownino"] = true, ["Sammyni Fattini"] = true, ["Strawberry Elephant"] = true, ["Meowl"] = true,
     ["Headless Horseman"] = true, ["Skibidi Toilet"] = true, ["Griffin"] = true, ["Hydra Dragon Cannelloni"] = true,
     ["Dragon Gingerini"] = true, ["Dragon Cannelloni"] = true, ["Love Love Bear"] = true, ["La Supreme Combinasion"] = true,
